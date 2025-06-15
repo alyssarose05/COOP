@@ -7,17 +7,16 @@ My teammates and I have made recommendations on LinkedIn to advocate for each ot
 Please contact me via the email or LinkedIn listed on my GitHub profile ([alyssarose05](https://github.com/alyssarose05)) if you have any questions about us or our work.
 
 ## Teammates and roles
-_F A I L_-SAFE
- - Art **F**ursenko
+<ins>FAIL</ins>-SAFE
+ - Art <ins>F</ins>ursenko
    - *Telecommunications Marketing Analysis*: Audience Analyst
    - *NYC Housing Authority Evictions*: Executive summary
-- Alyssa **A**yala _(me)_
+- Alyssa <ins>A</ins>yala _(me)_
   - *Telecommunications Marketing Analysis*: Creative Analyst
   - *NYC Housing Authority Evictions*: The context of the problem
-- Austin **I**ntrona
+- Austin <ins>I</ins>ntrona
   - *Telecommunications Marketing Analysis*: Spatial Analyst
   - *NYC Housing Authority Evictions*: Methodology of the dataset
-- Eddie **L**i
+- Eddie <ins>L</ins>i
   - *Telecommunications Marketing Analysis*: Inventory Analyst
   - *NYC Housing Authority Evictions*: Insights and visualizations
- 
