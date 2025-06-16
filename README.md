@@ -1,6 +1,7 @@
 # COOP Careers Data Analytics Fellowship
-From Aug. 2024 to Dec. 2024, I participated in a highly selective fellowship program that admits recent first-generation college graduates. I did the Data Analytics track in NYC and was in cohort C463! 
-During two hands-on projects, I gained experience in Tableau, Excel, and SQL by creating minimal presentations and one-page reports for stakeholders with the [FAIL-SAFE team](https://github.com/alyssarose05/COOP/blob/main/FAIL-SAFE.md).  
+From Aug. 2024 to Dec. 2024, I participated in a highly selective fellowship program that admits recent first-generation college graduates. You can learn more about COOP and see if you qualify [here](https://coopcareers.org/faq).  
+
+I did the Data Analytics track in NYC and was in cohort C463. During two hands-on projects, I gained experience in Tableau, Excel, and SQL by creating minimal presentations and one-page reports for stakeholders with the [FAIL-SAFE team](https://github.com/alyssarose05/COOP/blob/main/FAIL-SAFE.md).  
 
 - Gained experience in data cleaning, visualization, and storytelling using SQL and Tableau through a 16-week fellowship program while focusing on professional development.
 - Mastered data tools, networking, and interviewing within 200+ hours of instruction time from alumni captains with industry experience.
